@@ -1,0 +1,1 @@
+# This is our Project on MNIST Dataset Trained on Artifical Neural Network.
